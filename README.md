@@ -12,6 +12,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Betapoisoner/Betapoisoner/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/enderfare/enderfare/output/snake.svg" alt="Snake animation" />
 
 ###
