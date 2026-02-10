@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enderfare&label=Profile%20views&color=0e75b6&style=flat" alt="enderfare" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enderfare" alt="enderfare" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=enderfare&theme=dracula" alt="enderfare" /></a> </p>
 
 - 🔭 I’m currently working on [Switch](https://github.com/enderfare/switch)
 
